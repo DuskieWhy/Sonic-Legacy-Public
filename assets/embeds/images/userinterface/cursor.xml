@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cursor.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="disabled0000" x="263" y="126" width="93" height="92"/>
+	<SubTexture name="disabledClick0000" x="366" y="128" width="93" height="92"/>
+	<SubTexture name="hand0000" x="263" y="10" width="93" height="106"/>
+	<SubTexture name="handClick0000" x="366" y="10" width="88" height="108"/>
+	<SubTexture name="idle0000" x="360" y="230" width="75" height="90"/>
+	<SubTexture name="idleClick0000" x="89" y="250" width="75" height="90"/>
+	<SubTexture name="waiting0000" x="123" y="137" width="69" height="103" frameX="-24" frameY="-6" frameWidth="118" frameHeight="117"/>
+	<SubTexture name="waiting0001" x="10" y="216" width="69" height="103" frameX="-24" frameY="-6" frameWidth="118" frameHeight="117"/>
+	<SubTexture name="waiting0002" x="202" y="228" width="69" height="103" frameX="-24" frameY="-6" frameWidth="118" frameHeight="117"/>
+	<SubTexture name="waiting0003" x="281" y="228" width="69" height="103" frameX="-24" frameY="-6" frameWidth="118" frameHeight="117"/>
+	<SubTexture name="waiting0004" x="281" y="228" width="69" height="103" frameX="-24" frameY="-6" frameWidth="118" frameHeight="117"/>
+	<SubTexture name="waiting0005" x="10" y="10" width="117" height="116" frameX="0" frameY="-1" frameWidth="118" frameHeight="117"/>
+	<SubTexture name="waiting0006" x="10" y="136" width="103" height="70" frameX="-8" frameY="-22" frameWidth="118" frameHeight="117"/>
+	<SubTexture name="waiting0007" x="137" y="10" width="116" height="117" frameX="-2" frameY="0" frameWidth="118" frameHeight="117"/>
+</TextureAtlas>

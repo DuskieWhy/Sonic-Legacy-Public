@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="agua.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="agua0000" x="40" y="40" width="4085" height="1345"/>
+	<SubTexture name="agua0001" x="40" y="1425" width="4085" height="1345"/>
+	<SubTexture name="agua0002" x="40" y="2810" width="4085" height="1345"/>
+	<SubTexture name="agua0003" x="40" y="4195" width="4085" height="1345"/>
+</TextureAtlas>

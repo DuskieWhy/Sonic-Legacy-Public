@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="images.png">
+<SubTexture name="i0000" x="0" y="427" width="426" height="372" frameX="0" frameY="0" frameWidth="396" frameHeight="342" />
+<SubTexture name="select0000" x="0" y="0" width="465" height="427" frameX="-5" frameY="0" frameWidth="443" frameHeight="397" />
+<SubTexture name="select0001" x="0" y="0" width="465" height="427" frameX="-5" frameY="0" frameWidth="443" frameHeight="397" />
+<SubTexture name="select0002" x="465" y="0" width="473" height="408" frameX="0" frameY="-13" frameWidth="443" frameHeight="397" />
+<SubTexture name="select0003" x="465" y="0" width="473" height="408" frameX="0" frameY="-13" frameWidth="443" frameHeight="397" />
+</TextureAtlas>

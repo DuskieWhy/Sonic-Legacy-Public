@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bgFiles2.png" width="1221" height="1134">
+	<SubTexture name="water0000" x="641" y="1" width="310" height="823" frameX="-13" frameY="-20" frameWidth="331" frameHeight="843"/>
+	<SubTexture name="water0001" x="322" y="1" width="316" height="821" frameX="-11" frameY="-16" frameWidth="331" frameHeight="843"/>
+	<SubTexture name="water0002" x="1" y="828" width="830" height="305" rotated="true" frameX="-19" frameY="-0" frameWidth="331" frameHeight="843"/>
+	<SubTexture name="water0003" x="1" y="1" width="318" height="824" frameX="-13" frameY="-8" frameWidth="331" frameHeight="843"/>
+	<SubTexture name="Sun0000" x="954" y="1" width="132" height="486" rotated="true" frameX="-0" frameY="-0" frameWidth="486" frameHeight="132"/>
+	<SubTexture name="Sun0001" x="954" y="490" width="131" height="486" rotated="true" frameX="-0" frameY="-0" frameWidth="486" frameHeight="132"/>
+	<SubTexture name="Sun0002" x="1088" y="490" width="131" height="486" rotated="true" frameX="-0" frameY="-0" frameWidth="486" frameHeight="132"/>
+	<SubTexture name="Sun0003" x="1089" y="1" width="131" height="486" rotated="true" frameX="-0" frameY="-0" frameWidth="486" frameHeight="132"/>
+</TextureAtlas>

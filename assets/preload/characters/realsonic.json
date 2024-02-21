@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				0,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				28,
+				-193
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-57,
+				-169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				-19,
+				-248
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-47,
+				-142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				762,
+				-181
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "spin",
+			"loop": false,
+			"name": "spindash"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/2sonic",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		30,
+		178
+	],
+	"camera_position": [
+		-90,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

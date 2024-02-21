@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="birds1.png" width="1373" height="2730">
+	<SubTexture name="birds0000" x="1" y="1087" width="1371" height="426" frameX="-0" frameY="-24" frameWidth="1371" frameHeight="555"/>
+	<SubTexture name="birds0001" x="1" y="1516" width="1371" height="421" frameX="-0" frameY="-16" frameWidth="1371" frameHeight="555"/>
+	<SubTexture name="birds0002" x="1" y="545" width="1371" height="539" frameX="-0" frameY="-0" frameWidth="1371" frameHeight="555"/>
+	<SubTexture name="birds0003" x="1" y="1" width="1371" height="541" frameX="-0" frameY="-14" frameWidth="1371" frameHeight="555"/>
+	<SubTexture name="birds0004" x="1" y="1940" width="1371" height="397" frameX="-0" frameY="-87" frameWidth="1371" frameHeight="555"/>
+	<SubTexture name="birds0005" x="1" y="2340" width="1371" height="389" frameX="-0" frameY="-71" frameWidth="1371" frameHeight="555"/>
+</TextureAtlas>

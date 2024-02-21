@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfreflection.png">
+	<!-- Created with Adobe Animate version 23.0.3.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="braindead0000" x="0" y="0" width="736" height="622"/>
+	<SubTexture name="braindead0001" x="0" y="0" width="736" height="622"/>
+	<SubTexture name="braindead0002" x="751" y="0" width="736" height="622"/>
+	<SubTexture name="braindead0003" x="751" y="0" width="736" height="622"/>
+</TextureAtlas>

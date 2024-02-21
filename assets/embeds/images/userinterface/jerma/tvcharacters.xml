@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tvcharacters.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tkescreen instance 10000" x="2" y="2" width="171" height="107"/>
+	<SubTexture name="tkescreen instance 10001" x="176" y="2" width="171" height="107"/>
+	<SubTexture name="tkescreen instance 10002" x="2" y="112" width="171" height="107"/>
+</TextureAtlas>

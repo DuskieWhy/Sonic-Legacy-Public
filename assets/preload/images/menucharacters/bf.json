@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "BF HEY!! instance 1",
+	"idle_anim": "BF idle dance instance 1",
+	"position": [
+		57,
+		14
+	],
+	"scale": 0.7,
+	"image": "Menu_BF"
+}

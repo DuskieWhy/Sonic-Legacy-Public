@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="X_Kick.png" width="2278" height="2819">
+	<SubTexture name="kickx0000" x="683" y="2209" width="647" height="568" frameX="-115" frameY="-111" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0001" x="683" y="2209" width="647" height="568" frameX="-115" frameY="-111" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0002" x="683" y="2209" width="647" height="568" frameX="-115" frameY="-111" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0003" x="683" y="2209" width="647" height="568" frameX="-115" frameY="-111" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0004" x="683" y="2209" width="647" height="568" frameX="-115" frameY="-111" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0005" x="683" y="2209" width="647" height="568" frameX="-115" frameY="-111" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0006" x="1570" y="829" width="596" height="680" frameX="-97" frameY="-46" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0007" x="1570" y="829" width="596" height="680" frameX="-97" frameY="-46" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0008" x="719" y="1529" width="711" height="667" frameX="-57" frameY="-30" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0009" x="719" y="1529" width="711" height="667" frameX="-57" frameY="-30" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0010" x="845" y="829" width="722" height="681" frameX="-10" frameY="-16" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0011" x="845" y="829" width="722" height="681" frameX="-10" frameY="-16" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0012" x="1" y="1529" width="715" height="677" frameX="-3" frameY="-20" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0013" x="1" y="1529" width="715" height="677" frameX="-3" frameY="-20" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0014" x="1" y="1529" width="715" height="677" frameX="-3" frameY="-20" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0015" x="1" y="1529" width="715" height="677" frameX="-3" frameY="-20" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0016" x="1433" y="1513" width="674" height="683" rotated="true" frameX="-12" frameY="-23" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0017" x="1433" y="1513" width="674" height="683" rotated="true" frameX="-12" frameY="-23" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0018" x="1606" y="1" width="671" height="694" frameX="-27" frameY="-3" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0019" x="1606" y="1" width="671" height="694" frameX="-27" frameY="-3" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0020" x="1" y="767" width="841" height="759" frameX="-38" frameY="-3" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0021" x="1" y="767" width="841" height="759" frameX="-38" frameY="-3" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0022" x="1" y="1" width="847" height="763" frameX="-23" frameY="-0" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0023" x="1" y="1" width="847" height="763" frameX="-23" frameY="-0" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0024" x="851" y="1" width="752" height="825" rotated="true" frameX="-0" frameY="-10" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0025" x="851" y="1" width="752" height="825" rotated="true" frameX="-0" frameY="-10" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0026" x="1" y="2209" width="679" height="609" rotated="true" frameX="-88" frameY="-80" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="kickx0027" x="1" y="2209" width="679" height="609" rotated="true" frameX="-88" frameY="-80" frameWidth="879" frameHeight="764"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="smoke.png" width="5905" height="980">
+	<SubTexture name="Smoke20000" x="3731" y="1" width="603" height="930" frameX="-16" frameY="-43" frameWidth="679" frameHeight="1031"/>
+	<SubTexture name="Smoke20001" x="3731" y="1" width="603" height="930" frameX="-16" frameY="-43" frameWidth="679" frameHeight="1031"/>
+	<SubTexture name="Smoke20002" x="3225" y="1" width="503" height="927" frameX="-104" frameY="-44" frameWidth="679" frameHeight="1031"/>
+	<SubTexture name="Smoke20003" x="3225" y="1" width="503" height="927" frameX="-104" frameY="-44" frameWidth="679" frameHeight="1031"/>
+	<SubTexture name="Smoke20004" x="5408" y="1" width="496" height="978" frameX="-149" frameY="-44" frameWidth="679" frameHeight="1031"/>
+	<SubTexture name="Smoke20005" x="5408" y="1" width="496" height="978" frameX="-149" frameY="-44" frameWidth="679" frameHeight="1031"/>
+	<SubTexture name="Smoke20006" x="4908" y="1" width="497" height="941" frameX="-157" frameY="-45" frameWidth="679" frameHeight="1031"/>
+	<SubTexture name="Smoke20007" x="4908" y="1" width="497" height="941" frameX="-157" frameY="-45" frameWidth="679" frameHeight="1031"/>
+	<SubTexture name="Smoke20008" x="4337" y="1" width="568" height="940" frameX="-71" frameY="-44" frameWidth="679" frameHeight="1031"/>
+	<SubTexture name="Smoke20009" x="4337" y="1" width="568" height="940" frameX="-71" frameY="-44" frameWidth="679" frameHeight="1031"/>
+	<SubTexture name="Smoke10000" x="1281" y="1" width="572" height="840" frameX="-245" frameY="-30" frameWidth="866" frameHeight="900"/>
+	<SubTexture name="Smoke10001" x="1281" y="1" width="572" height="840" frameX="-245" frameY="-30" frameWidth="866" frameHeight="900"/>
+	<SubTexture name="Smoke10002" x="605" y="1" width="673" height="813" frameX="-159" frameY="-30" frameWidth="866" frameHeight="900"/>
+	<SubTexture name="Smoke10003" x="605" y="1" width="673" height="813" frameX="-159" frameY="-30" frameWidth="866" frameHeight="900"/>
+	<SubTexture name="Smoke10004" x="1" y="1" width="601" height="811" frameX="-219" frameY="-30" frameWidth="866" frameHeight="900"/>
+	<SubTexture name="Smoke10005" x="1" y="1" width="601" height="811" frameX="-219" frameY="-30" frameWidth="866" frameHeight="900"/>
+	<SubTexture name="Smoke10006" x="1856" y="1" width="749" height="855" frameX="-27" frameY="-28" frameWidth="866" frameHeight="900"/>
+	<SubTexture name="Smoke10007" x="1856" y="1" width="749" height="855" frameX="-27" frameY="-28" frameWidth="866" frameHeight="900"/>
+	<SubTexture name="Smoke10008" x="2608" y="1" width="614" height="860" frameX="-177" frameY="-30" frameWidth="866" frameHeight="900"/>
+	<SubTexture name="Smoke10009" x="2608" y="1" width="614" height="860" frameX="-177" frameY="-30" frameWidth="866" frameHeight="900"/>
+</TextureAtlas>

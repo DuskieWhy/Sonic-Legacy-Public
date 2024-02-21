@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jermstati.png">
+<SubTexture name="jermstati i0000" x="0" y="0" width="499" height="699" frameX="0" frameY="0" frameWidth="499" frameHeight="699" />
+<SubTexture name="jermstati i0001" x="499" y="0" width="499" height="699" frameX="0" frameY="0" frameWidth="499" frameHeight="699" />
+<SubTexture name="jermstati i0002" x="998" y="0" width="499" height="699" frameX="0" frameY="0" frameWidth="499" frameHeight="699" />
+<SubTexture name="jermstati i0003" x="0" y="699" width="499" height="699" frameX="0" frameY="0" frameWidth="499" frameHeight="699" />
+<SubTexture name="jermstati i0004" x="499" y="699" width="499" height="699" frameX="0" frameY="0" frameWidth="499" frameHeight="699" />
+</TextureAtlas>

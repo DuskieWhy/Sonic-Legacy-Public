@@ -1,0 +1,35 @@
+{
+	"storyName": "Rodentrap",
+	"hideFreeplay": false,
+	"difficulties": "Easy,Normal,Hard",
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sonic",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"2Torial",
+			"sonic",
+			[
+				5,
+				30,
+				178
+			]
+		],
+		[
+			"Obituary",
+			"sonic",
+			[
+				5,
+				30,
+				178
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "rodentrap"
+}

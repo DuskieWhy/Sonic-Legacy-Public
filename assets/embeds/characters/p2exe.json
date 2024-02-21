@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				284,
+				-32
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-25,
+				-16
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				3,
+				275
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-28,
+				-14
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				40,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "gameover",
+			"loop": false,
+			"name": "GameOver"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/p2sonic",
+	"position": [
+		-20,
+		210
+	],
+	"pauseDuringSustains": false,
+	"healthicon": "p2",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		30,
+		178
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

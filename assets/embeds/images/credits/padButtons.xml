@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="padButtons.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scrollBTNdown0000" x="52" y="61" width="31" height="34"/>
+	<SubTexture name="scrollBTNdown0001" x="93" y="61" width="31" height="29" frameX="0" frameY="-5" frameWidth="31" frameHeight="34"/>
+	<SubTexture name="scrollBTNup0000" x="174" y="57" width="32" height="34"/>
+	<SubTexture name="scrollBTNup0001" x="10" y="61" width="32" height="33" frameX="0" frameY="-1" frameWidth="32" frameHeight="34"/>
+	<SubTexture name="windowBTNdisabled0000" x="10" y="10" width="88" height="41"/>
+	<SubTexture name="windowBTNdisabled0001" x="10" y="10" width="88" height="41"/>
+	<SubTexture name="windowBTNx0000" x="108" y="10" width="56" height="41"/>
+	<SubTexture name="windowBTNx0001" x="174" y="10" width="56" height="37" frameX="0" frameY="-4" frameWidth="56" frameHeight="41"/>
+</TextureAtlas>

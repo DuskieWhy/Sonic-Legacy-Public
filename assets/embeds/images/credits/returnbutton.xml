@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="returnbutton.png">
+	<!-- Created with Adobe Animate version 23.0.3.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="return0000" x="0" y="0" width="56" height="59" frameX="-3" frameY="0" frameWidth="59" frameHeight="59"/>
+	<SubTexture name="return0001" x="71" y="0" width="56" height="46" frameX="0" frameY="-12" frameWidth="59" frameHeight="59"/>
+</TextureAtlas>

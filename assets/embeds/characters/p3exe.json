@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				174,
+				-22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				-26,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				44,
+				164
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				-48,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/p3sonic",
+	"position": [
+		-70,
+		130
+	],
+	"pauseDuringSustains": false,
+	"healthicon": "p3",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		30,
+		178
+	],
+	"camera_position": [
+		0,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

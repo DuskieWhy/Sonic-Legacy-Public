@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tv.png">
+<SubTexture name="i0000" x="616" y="0" width="308" height="404" frameX="0" frameY="0" frameWidth="278" frameHeight="386" />
+
+<SubTexture name="select0000" x="308" y="0" width="308" height="410" frameX="0" frameY="-6" frameWidth="279" frameHeight="386" />
+<SubTexture name="select0001" x="308" y="0" width="308" height="410" frameX="0" frameY="-6" frameWidth="279" frameHeight="386" />
+<SubTexture name="select0002" x="0" y="0" width="308" height="416" frameX="0" frameY="0" frameWidth="279" frameHeight="386" />
+<SubTexture name="select0003" x="0" y="0" width="308" height="416" frameX="0" frameY="0" frameWidth="279" frameHeight="386" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="creditbutton.png">
+	<!-- Created with Adobe Animate version 23.0.3.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="server button0000" x="0" y="0" width="456" height="83" frameX="0" frameY="-3" frameWidth="465" frameHeight="88"/>
+	<SubTexture name="server button0001" x="0" y="98" width="465" height="88"/>
+</TextureAtlas>

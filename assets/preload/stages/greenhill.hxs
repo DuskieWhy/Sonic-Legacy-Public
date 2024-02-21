@@ -1,0 +1,62 @@
+var camTwn:FlxTween = null;
+
+function onLoad(){
+    var greenHillSky:BGSprite = new BGSprite('stages/bg-greenhill/Sky', -485, -600, 0.0, 0.0);
+    greenHillSky.setGraphicSize(Std.int(greenHillSky.width * 2.0));
+    greenHillSky.updateHitbox();
+    add(greenHillSky);
+
+    var greenHillClouds:BGSprite = new BGSprite('stages/bg-greenhill/Clouds', -607, -335, 0.05, 0.05);
+    greenHillClouds.setGraphicSize(Std.int(greenHillClouds.width * 2.0));
+    greenHillClouds.updateHitbox();
+    add(greenHillClouds);
+
+    var greenHillMountians:BGSprite = new BGSprite('stages/bg-greenhill/Moutians', -589, -190, 0.10, 0.10);
+    greenHillMountians.setGraphicSize(Std.int(greenHillMountians.width * 1.75));
+    greenHillMountians.updateHitbox();
+    add(greenHillMountians);
+
+    var greenHillWater:BGSprite = new BGSprite('stages/bg-greenhill/Water', -633, 235, 0.2, 0.2);
+    greenHillWater.setGraphicSize(Std.int(greenHillWater.width * 2.0));
+    greenHillWater.updateHitbox();
+    add(greenHillWater);
+
+    var greenhillLand:BGSprite = new BGSprite('stages/bg-greenhill/Ground', -1048, -200, 1, 1);
+    greenhillLand.setGraphicSize(Std.int(greenhillLand.width * 1.75));
+    greenhillLand.updateHitbox();
+    add(greenhillLand);
+
+    // var greenhillRings = new BGSprite('bg-greenhill/rings', -575, 280, 1, 1);
+    var greenhillRings = new FlxSprite(-575, 280);
+    greenhillRings.frames = Paths.getSparrowAtlas('stages/bg-greenhill/rings');
+    greenhillRings.animation.addByPrefix('idle ring', 'idle ring', 12, true);
+    greenhillRings.animation.play('idle ring', true);
+    greenhillRings.setGraphicSize(Std.int(greenhillRings.width * 0.875));
+    greenhillRings.updateHitbox();
+    add(greenhillRings);
+
+    var greenHillRocks:BGSprite = new BGSprite('stages/bg-greenhill/Foreground', -1029, 225, 1.25, 1.25);
+    greenHillRocks.setGraphicSize(Std.int(greenHillRocks.width * 2.5));
+    greenHillRocks.updateHitbox();
+    foreground.add(greenHillRocks);
+}
+
+function onEvent(eventName, value1, value2){
+    switch (eventName)
+    {
+        case '2torial':
+            switch(value1)
+            {
+                case 'pan': //madae this real quick so it's a bit scuffed
+                    var dist:Float = Std.parseFloat(value2.split(',')[0]);
+                    var length:Float = Std.parseFloat(value2.split(',')[1]);
+                    var axis:Int = Std.parseInt(value2.split(',')[2]);
+                    var easing:String = FunkinLua.getFlxEaseByString(value2.split(',')[3]);
+
+                    if (camTwn != null) camTwn.cancel();
+                    camTwn = FlxTween.num(PlayState.instance.boyfriend.cameraPosition[axis], dist, length, {ease: easing, onUpdate: function(v:FlxTween){
+                        PlayState.instance.boyfriend.cameraPosition[axis] = v.value;
+                    }});
+            }
+    }
+}

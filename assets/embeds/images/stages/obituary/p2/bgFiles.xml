@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bgFiles.png" width="5823" height="2989">
+	<SubTexture name="fgLEFT" x="3966" y="1790" width="1281" height="1108" frameX="-0" frameY="-62" frameWidth="1355" frameHeight="1184"/>
+	<SubTexture name="fgRIGHT" x="4073" y="1" width="1749" height="1053" frameX="-103" frameY="-102" frameWidth="1852" frameHeight="1184"/>
+	<SubTexture name="floor3" x="1" y="1" width="4069" height="1786" frameX="-97" frameY="-161" frameWidth="4385" frameHeight="1948"/>
+	<SubTexture name="head" x="4073" y="1057" width="406" height="420" frameX="-0" frameY="-25" frameWidth="406" frameHeight="445"/>
+	<SubTexture name="henges3" x="1" y="1790" width="3962" height="1198" frameX="-94" frameY="-0" frameWidth="4145" frameHeight="1242"/>
+	<SubTexture name="pike1" x="4943" y="1057" width="144" height="426" frameX="-38" frameY="-14" frameWidth="203" frameHeight="476"/>
+	<SubTexture name="pike2" x="4482" y="1057" width="270" height="651" frameX="-132" frameY="-22" frameWidth="453" frameHeight="704"/>
+	<SubTexture name="pike3" x="4755" y="1057" width="185" height="548" frameX="-64" frameY="-20" frameWidth="334" frameHeight="579"/>
+</TextureAtlas>

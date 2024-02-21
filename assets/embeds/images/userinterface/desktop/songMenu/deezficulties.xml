@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="deezficulties.png" width="1254" height="1274">
+	<SubTexture name="diffBGloop0000" x="5" y="510" width="667" height="237" frameX="-0" frameY="-1" frameWidth="668" frameHeight="238"/>
+	<SubTexture name="diffBGloop0001" x="5" y="269" width="668" height="236" frameX="-0" frameY="-1" frameWidth="668" frameHeight="238"/>
+	<SubTexture name="diffBGloop0002" x="725" y="5" width="236" height="667" rotated="true" frameX="-0" frameY="-1" frameWidth="668" frameHeight="238"/>
+	<SubTexture name="diffBGloop0003" x="5" y="510" width="667" height="237" frameX="-0" frameY="-1" frameWidth="668" frameHeight="238"/>
+	<SubTexture name="diffBGloop0004" x="5" y="269" width="668" height="236" frameX="-0" frameY="-1" frameWidth="668" frameHeight="238"/>
+	<SubTexture name="diffBGloop0005" x="725" y="5" width="236" height="667" rotated="true" frameX="-0" frameY="-1" frameWidth="668" frameHeight="238"/>
+	<SubTexture name="diffBGopen0000" x="677" y="677" width="23" height="59" rotated="true" frameX="-321" frameY="-124" frameWidth="716" frameHeight="260"/>
+	<SubTexture name="diffBGopen0001" x="966" y="5" width="140" height="360" rotated="true" frameX="-169" frameY="-65" frameWidth="716" frameHeight="260"/>
+	<SubTexture name="diffBGopen0002" x="966" y="5" width="140" height="360" rotated="true" frameX="-169" frameY="-65" frameWidth="716" frameHeight="260"/>
+	<SubTexture name="diffBGopen0003" x="5" y="5" width="715" height="259" frameX="-0" frameY="-0" frameWidth="716" frameHeight="260"/>
+	<SubTexture name="diffBGopen0004" x="5" y="5" width="715" height="259" frameX="-0" frameY="-0" frameWidth="716" frameHeight="260"/>
+	<SubTexture name="diffBGopen0005" x="5" y="752" width="658" height="227" frameX="-27" frameY="-16" frameWidth="716" frameHeight="260"/>
+	<SubTexture name="diffBGopen0006" x="5" y="752" width="658" height="227" frameX="-27" frameY="-16" frameWidth="716" frameHeight="260"/>
+	<SubTexture name="easy0000" x="1111" y="5" width="138" height="180" rotated="true" frameX="-0" frameY="-0" frameWidth="181" frameHeight="138"/>
+	<SubTexture name="easy0001" x="1111" y="560" width="138" height="179" rotated="true" frameX="-1" frameY="-0" frameWidth="181" frameHeight="138"/>
+	<SubTexture name="easy0002" x="5" y="984" width="181" height="136" frameX="-0" frameY="-1" frameWidth="181" frameHeight="138"/>
+	<SubTexture name="easy0003" x="1111" y="190" width="138" height="180" rotated="true" frameX="-0" frameY="-0" frameWidth="181" frameHeight="138"/>
+	<SubTexture name="easy0004" x="812" y="1051" width="138" height="179" rotated="true" frameX="-1" frameY="-0" frameWidth="181" frameHeight="138"/>
+	<SubTexture name="easy0005" x="191" y="984" width="181" height="136" frameX="-0" frameY="-1" frameWidth="181" frameHeight="138"/>
+	<SubTexture name="easy0006" x="1111" y="375" width="138" height="180" rotated="true" frameX="-0" frameY="-0" frameWidth="181" frameHeight="138"/>
+	<SubTexture name="easy0007" x="1111" y="5" width="138" height="180" rotated="true" frameX="-0" frameY="-0" frameWidth="181" frameHeight="138"/>
+	<SubTexture name="hard0000" x="1101" y="744" width="141" height="180" rotated="true" frameX="-0" frameY="-0" frameWidth="181" frameHeight="141"/>
+	<SubTexture name="hard0001" x="1101" y="929" width="141" height="180" rotated="true" frameX="-0" frameY="-0" frameWidth="181" frameHeight="141"/>
+	<SubTexture name="hard0002" x="377" y="984" width="181" height="139" frameX="-0" frameY="-1" frameWidth="181" frameHeight="141"/>
+	<SubTexture name="hard0003" x="5" y="1128" width="180" height="141" frameX="-0" frameY="-0" frameWidth="181" frameHeight="141"/>
+	<SubTexture name="hard0004" x="190" y="1128" width="180" height="141" frameX="-0" frameY="-0" frameWidth="181" frameHeight="141"/>
+	<SubTexture name="hard0005" x="956" y="931" width="139" height="181" rotated="true" frameX="-0" frameY="-1" frameWidth="181" frameHeight="141"/>
+	<SubTexture name="hard0006" x="375" y="1128" width="180" height="141" frameX="-0" frameY="-0" frameWidth="181" frameHeight="141"/>
+	<SubTexture name="hard0007" x="1101" y="744" width="141" height="180" rotated="true" frameX="-0" frameY="-0" frameWidth="181" frameHeight="141"/>
+	<SubTexture name="medium0000" x="966" y="370" width="139" height="182" rotated="true" frameX="-0" frameY="-0" frameWidth="183" frameHeight="140"/>
+	<SubTexture name="medium0001" x="966" y="557" width="140" height="182" rotated="true" frameX="-0" frameY="-0" frameWidth="183" frameHeight="140"/>
+	<SubTexture name="medium0002" x="668" y="752" width="139" height="182" rotated="true" frameX="-1" frameY="-0" frameWidth="183" frameHeight="140"/>
+	<SubTexture name="medium0003" x="812" y="677" width="139" height="182" rotated="true" frameX="-0" frameY="-0" frameWidth="183" frameHeight="140"/>
+	<SubTexture name="medium0004" x="956" y="744" width="140" height="182" rotated="true" frameX="-0" frameY="-0" frameWidth="183" frameHeight="140"/>
+	<SubTexture name="medium0005" x="812" y="864" width="139" height="182" rotated="true" frameX="-1" frameY="-0" frameWidth="183" frameHeight="140"/>
+	<SubTexture name="medium0006" x="668" y="939" width="139" height="182" rotated="true" frameX="-0" frameY="-0" frameWidth="183" frameHeight="140"/>
+	<SubTexture name="medium0007" x="966" y="370" width="139" height="182" rotated="true" frameX="-0" frameY="-0" frameWidth="183" frameHeight="140"/>
+</TextureAtlas>

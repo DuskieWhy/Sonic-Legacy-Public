@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="jerma.png" width="4713" height="5789">
+	<SubTexture name="jermaheh0000" x="3144" y="811" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0000" x="3144" y="1613" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0001" x="3144" y="1613" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0002" x="3143" y="3352" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0003" x="1572" y="3397" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0004" x="1" y="4187" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0005" x="1" y="4187" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0006" x="3143" y="4154" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0007" x="1572" y="4199" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0008" x="1" y="4989" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0009" x="1" y="4989" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0010" x="1" y="4989" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0011" x="1" y="4989" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermahmm0012" x="1" y="4989" width="1568" height="799" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="799"/>
+	<SubTexture name="jermaidle0000" x="1572" y="5001" width="1568" height="780" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="780"/>
+	<SubTexture name="jermaleft0000" x="3143" y="4956" width="1568" height="782" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="782"/>
+	<SubTexture name="jermastinkyfinger0000" x="3144" y="1" width="1568" height="807" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="807"/>
+	<SubTexture name="laugh0000" x="1" y="1" width="1568" height="875" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="875"/>
+	<SubTexture name="laugh0001" x="1573" y="782" width="1568" height="875" frameX="-0" frameY="-0" frameWidth="1568" frameHeight="875"/>
+	<SubTexture name="laugh0002" x="1573" y="1660" width="1568" height="872" frameX="-0" frameY="-3" frameWidth="1568" frameHeight="875"/>
+	<SubTexture name="laugh0003" x="1" y="1661" width="1568" height="872" frameX="-0" frameY="-3" frameWidth="1568" frameHeight="875"/>
+	<SubTexture name="laugh0004" x="1572" y="2535" width="1568" height="859" frameX="-0" frameY="-16" frameWidth="1568" frameHeight="875"/>
+	<SubTexture name="laugh0005" x="3143" y="2535" width="1568" height="814" frameX="-0" frameY="-61" frameWidth="1568" frameHeight="875"/>
+	<SubTexture name="laugh0006" x="3143" y="2535" width="1568" height="814" frameX="-0" frameY="-61" frameWidth="1568" frameHeight="875"/>
+	<SubTexture name="laugh0007" x="1" y="3366" width="1568" height="818" frameX="-0" frameY="-57" frameWidth="1568" frameHeight="875"/>
+	<SubTexture name="laugh0008" x="1" y="3366" width="1568" height="818" frameX="-0" frameY="-57" frameWidth="1568" frameHeight="875"/>
+	<SubTexture name="laugh0009" x="1" y="2536" width="1568" height="827" frameX="-0" frameY="-48" frameWidth="1568" frameHeight="875"/>
+	<SubTexture name="huhwhat" x="1" y="879" width="1569" height="779" frameX="-5" frameY="-6" frameWidth="1579" frameHeight="792"/>
+	<SubTexture name="thereitisagain" x="1572" y="1" width="1569" height="778" frameX="-5" frameY="-5" frameWidth="1579" frameHeight="788"/>
+</TextureAtlas>

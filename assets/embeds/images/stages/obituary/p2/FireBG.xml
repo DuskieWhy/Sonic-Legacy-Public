@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="FireBG.png" width="7633" height="4431">
+	<SubTexture name="FIRE instancia 10000" x="3803" y="3194" width="3791" height="1236" frameX="-9" frameY="-3" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10001" x="3803" y="3194" width="3791" height="1236" frameX="-9" frameY="-3" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10002" x="3857" y="1" width="3775" height="1114" frameX="-33" frameY="-8" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10003" x="3857" y="1" width="3775" height="1114" frameX="-33" frameY="-8" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10004" x="1" y="2135" width="3812" height="1056" frameX="-12" frameY="-18" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10005" x="1" y="2135" width="3812" height="1056" frameX="-12" frameY="-18" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10006" x="1" y="1054" width="3848" height="1078" frameX="-2" frameY="-23" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10007" x="1" y="1054" width="3848" height="1078" frameX="-2" frameY="-23" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10008" x="1" y="1" width="3853" height="1050" frameX="-4" frameY="-42" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10009" x="1" y="1" width="3853" height="1050" frameX="-4" frameY="-42" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10010" x="1" y="3194" width="3799" height="1236" frameX="-5" frameY="-50" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10011" x="1" y="3194" width="3799" height="1236" frameX="-5" frameY="-50" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10012" x="3852" y="1118" width="3764" height="1213" frameX="-34" frameY="-25" frameWidth="3864" frameHeight="1291"/>
+	<SubTexture name="FIRE instancia 10013" x="3852" y="1118" width="3764" height="1213" frameX="-34" frameY="-25" frameWidth="3864" frameHeight="1291"/>
+</TextureAtlas>

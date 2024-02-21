@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="waterfall.png" width="8175" height="2695">
+	<SubTexture name="agua0000" x="1" y="1" width="4085" height="1345" frameX="-0" frameY="-0" frameWidth="4085" frameHeight="1345"/>
+	<SubTexture name="agua0001" x="4089" y="1" width="4085" height="1345" frameX="-0" frameY="-0" frameWidth="4085" frameHeight="1345"/>
+	<SubTexture name="agua0002" x="1" y="1349" width="4085" height="1345" frameX="-0" frameY="-0" frameWidth="4085" frameHeight="1345"/>
+	<SubTexture name="agua0003" x="4089" y="1349" width="4085" height="1345" frameX="-0" frameY="-0" frameWidth="4085" frameHeight="1345"/>
+</TextureAtlas>

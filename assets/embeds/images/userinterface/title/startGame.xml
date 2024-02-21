@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="startGame.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="startGame0000" x="10" y="10" width="1285" height="145" frameX="0" frameY="0" frameWidth="1285" frameHeight="147"/>
+	<SubTexture name="startGame0001" x="10" y="165" width="1282" height="139" frameX="-2" frameY="-8" frameWidth="1285" frameHeight="147"/>
+</TextureAtlas>

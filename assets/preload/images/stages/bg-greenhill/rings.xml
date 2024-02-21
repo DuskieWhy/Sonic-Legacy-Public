@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rings.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle ring0000" x="15" y="15" width="319" height="198" frameX="-194" frameY="-33" frameWidth="537" frameHeight="240"/>
+	<SubTexture name="idle ring0001" x="349" y="15" width="258" height="198" frameX="-228" frameY="-33" frameWidth="537" frameHeight="240"/>
+	<SubTexture name="idle ring0002" x="622" y="15" width="304" height="201" frameX="-205" frameY="-33" frameWidth="537" frameHeight="240"/>
+	<SubTexture name="idle ring0003" x="15" y="231" width="537" height="240"/>
+</TextureAtlas>

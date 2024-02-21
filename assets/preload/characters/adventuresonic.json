@@ -1,0 +1,115 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				134,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				22,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-26,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-28,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"loop": false,
+			"name": "IDLE0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "IDLE-ALT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				12,
+				13
+			],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "idle-alt-evil",
+			"loop": true,
+			"name": "IDLE-ALT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AdventureSonic",
+	"position": [
+		50,
+		220
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		30,
+		178
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

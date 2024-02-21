@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bgLayers.png" width="5314" height="5947">
+	<SubTexture name="bottleOff instance 10000" x="4888" y="3327" width="321" height="229" rotated="true" frameX="-1" frameY="-1" frameWidth="230" frameHeight="322"/>
+	<SubTexture name="bottleOn instance 10000" x="4888" y="3093" width="322" height="229" rotated="true" frameX="-1" frameY="-0" frameWidth="230" frameHeight="322"/>
+	<SubTexture name="bottleOn instance 10001" x="4888" y="3561" width="321" height="229" rotated="true" frameX="-1" frameY="-1" frameWidth="230" frameHeight="322"/>
+	<SubTexture name="boxOff instance 10000" x="2781" y="4333" width="688" height="760" rotated="true" frameX="-0" frameY="-1" frameWidth="761" frameHeight="690"/>
+	<SubTexture name="boxOn instance 10000" x="3474" y="4333" width="760" height="688" frameX="-0" frameY="-0" frameWidth="761" frameHeight="689"/>
+	<SubTexture name="boxOn instance 10001" x="3132" y="2751" width="688" height="761" rotated="true" frameX="-0" frameY="-0" frameWidth="761" frameHeight="689"/>
+	<SubTexture name="can1Off instance 10000" x="2845" y="5719" width="291" height="187" rotated="true" frameX="-0" frameY="-1" frameWidth="187" frameHeight="292"/>
+	<SubTexture name="can1On instance 10000" x="5092" y="3795" width="187" height="291" frameX="-0" frameY="-0" frameWidth="188" frameHeight="292"/>
+	<SubTexture name="can1On instance 10001" x="4888" y="3795" width="187" height="291" frameX="-0" frameY="-0" frameWidth="188" frameHeight="292"/>
+	<SubTexture name="can2Off instance 10000" x="3141" y="5719" width="291" height="187" rotated="true" frameX="-0" frameY="-0" frameWidth="188" frameHeight="291"/>
+	<SubTexture name="can2On instance 10000" x="4888" y="4091" width="188" height="290" frameX="-0" frameY="-0" frameWidth="189" frameHeight="291"/>
+	<SubTexture name="can2On instance 10001" x="5092" y="4091" width="187" height="291" frameX="-1" frameY="-0" frameWidth="189" frameHeight="291"/>
+	<SubTexture name="curtainsOff instance 10000" x="5" y="5" width="2741" height="1425" frameX="-0" frameY="-0" frameWidth="2741" frameHeight="1425"/>
+	<SubTexture name="curtainsOn instance 10000" x="5" y="1435" width="2741" height="1425" frameX="-1" frameY="-0" frameWidth="2742" frameHeight="1426"/>
+	<SubTexture name="curtainsOn instance 10001" x="2751" y="5" width="1425" height="2741" rotated="true" frameX="-1" frameY="-0" frameWidth="2742" frameHeight="1426"/>
+	<SubTexture name="keyboardOff instance 10000" x="5" y="3599" width="2141" height="729" frameX="-0" frameY="-0" frameWidth="2142" frameHeight="730"/>
+	<SubTexture name="keyboardOn instance 10000" x="2151" y="3599" width="2141" height="729" frameX="-1" frameY="-1" frameWidth="2142" frameHeight="730"/>
+	<SubTexture name="keyboardOn instance 10001" x="5" y="2865" width="2142" height="729" frameX="-0" frameY="-1" frameWidth="2142" frameHeight="730"/>
+	<SubTexture name="lotionOff instance 10000" x="4804" y="1532" width="505" height="253" rotated="true" frameX="-0" frameY="-0" frameWidth="253" frameHeight="505"/>
+	<SubTexture name="lotionOn instance 10000" x="4006" y="5620" width="505" height="254" rotated="true" frameX="-0" frameY="-0" frameWidth="254" frameHeight="505"/>
+	<SubTexture name="lotionOn instance 10001" x="4888" y="1790" width="253" height="505" frameX="-1" frameY="-0" frameWidth="254" frameHeight="505"/>
+	<SubTexture name="mixerOff instance 10000" x="4297" y="2818" width="586" height="850" rotated="true" frameX="-0" frameY="-0" frameWidth="851" frameHeight="587"/>
+	<SubTexture name="mixerOn instance 10000" x="4297" y="1962" width="586" height="851" rotated="true" frameX="-0" frameY="-0" frameWidth="851" frameHeight="587"/>
+	<SubTexture name="mixerOn instance 10001" x="4297" y="3673" width="586" height="850" rotated="true" frameX="-1" frameY="-0" frameWidth="851" frameHeight="587"/>
+	<SubTexture name="monitorOff instance 10000" x="931" y="4333" width="920" height="880" rotated="true" frameX="-1" frameY="-0" frameWidth="881" frameHeight="920"/>
+	<SubTexture name="monitorOn instance 10000" x="1856" y="4333" width="920" height="880" rotated="true" frameX="-1" frameY="-1" frameWidth="881" frameHeight="921"/>
+	<SubTexture name="monitorOn instance 10001" x="5" y="4333" width="921" height="881" rotated="true" frameX="-0" frameY="-0" frameWidth="881" frameHeight="921"/>
+	<SubTexture name="pcOff instance 10000" x="2152" y="2865" width="975" height="617" rotated="true" frameX="-1" frameY="-0" frameWidth="619" frameHeight="975"/>
+	<SubTexture name="pcOn instance 10000" x="4181" y="5" width="618" height="974" frameX="-0" frameY="-0" frameWidth="619" frameHeight="974"/>
+	<SubTexture name="pcOn instance 10001" x="4181" y="984" width="618" height="973" frameX="-1" frameY="-0" frameWidth="619" frameHeight="974"/>
+	<SubTexture name="phoneOff instance 10000" x="759" y="5219" width="748" height="722" frameX="-0" frameY="-0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="phoneOn instance 10000" x="5" y="5219" width="749" height="723" frameX="-0" frameY="-1" frameWidth="750" frameHeight="724"/>
+	<SubTexture name="phoneOn instance 10001" x="1512" y="5218" width="748" height="723" frameX="-1" frameY="-1" frameWidth="750" frameHeight="724"/>
+	<SubTexture name="pizzaOff instance 10000" x="4006" y="5026" width="488" height="589" frameX="-0" frameY="-1" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="pizzaOn instance 10000" x="4239" y="4528" width="589" height="488" rotated="true" frameX="-0" frameY="-0" frameWidth="489" frameHeight="589"/>
+	<SubTexture name="pizzaOn instance 10001" x="4499" y="5021" width="588" height="488" rotated="true" frameX="-0" frameY="-0" frameWidth="489" frameHeight="589"/>
+	<SubTexture name="tissuesOff instance 10000" x="2265" y="5218" width="575" height="616" rotated="true" frameX="-0" frameY="-0" frameWidth="617" frameHeight="577"/>
+	<SubTexture name="tissuesOn instance 10000" x="2845" y="5098" width="576" height="616" rotated="true" frameX="-1" frameY="-0" frameWidth="617" frameHeight="577"/>
+	<SubTexture name="tissuesOn instance 10001" x="3426" y="5098" width="575" height="616" rotated="true" frameX="-1" frameY="-0" frameWidth="617" frameHeight="577"/>
+	<SubTexture name="wires1Off instance 10000" x="4888" y="4387" width="291" height="249" rotated="true" frameX="-0" frameY="-1" frameWidth="250" frameHeight="293"/>
+	<SubTexture name="wires1On instance 10000" x="4833" y="4641" width="249" height="291" frameX="-1" frameY="-0" frameWidth="250" frameHeight="292"/>
+	<SubTexture name="wires1On instance 10001" x="4516" y="5514" width="250" height="291" frameX="-0" frameY="-0" frameWidth="250" frameHeight="292"/>
+	<SubTexture name="wires2Off instance 10000" x="4888" y="2565" width="375" height="259" frameX="-0" frameY="-0" frameWidth="376" frameHeight="260"/>
+	<SubTexture name="wires2On instance 10000" x="4888" y="2829" width="375" height="259" frameX="-1" frameY="-1" frameWidth="376" frameHeight="260"/>
+	<SubTexture name="wires2On instance 10001" x="4888" y="2300" width="376" height="260" frameX="-0" frameY="-0" frameWidth="376" frameHeight="260"/>
+	<SubTexture name="wires3Off instance 10000" x="3825" y="2751" width="400" height="759" rotated="true" frameX="-1" frameY="-0" frameWidth="760" frameHeight="400"/>
+	<SubTexture name="wires3On instance 10000" x="4888" y="5" width="400" height="759" rotated="true" frameX="-0" frameY="-0" frameWidth="760" frameHeight="400"/>
+	<SubTexture name="wires3On instance 10001" x="4888" y="769" width="400" height="758" rotated="true" frameX="-1" frameY="-0" frameWidth="760" frameHeight="400"/>
+</TextureAtlas>
