@@ -1,5 +1,5 @@
 ![](https://media.discordapp.net/attachments/996587362991747204/1208594430815109120/image.png?ex=65e3da46&is=65d16546&hm=241b059135e53c8df537cfe9195e683a093882f4791ed1451dc3bc722b0e43ed&)
-# FNF - NightareVision (Pysch engine fork)
+# FNF - NightmareVision (Pysch engine fork)
 Engine originally used for the [Hit Single mod](https://gamebanana.com/mods/395039), modifying Psych Engine 0.6.3 to add support for HScript, fix some bugs and overall be easier to use for both unexperienced AND experienced coders.
 
 ## Installation:
