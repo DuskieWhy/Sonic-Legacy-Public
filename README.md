@@ -5,10 +5,16 @@ Engine originally used for the [Hit Single mod](https://gamebanana.com/mods/3950
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), 4.3.3 should work.
 
-
 ## Compiling:
 To compile, you must first complete the steps listed above in *Installation*. Run the command `lime test windows` in your Windows Powershell / CMD, and enjoy!
-If you're way too lazy to read all the stuff up in *Installation* (which you should TOTALLY read!), you can run the *Compile.bat* file contained in the ***projFiles*** folder and it should set all of the libraries required for this engine to compile, then compile.
+If you're way too lazy to read all the stuff up in *Installation* (which you should TOTALLY read!), you can do either of these options:
+1. Run the *Compile.bat* file contained in the ***projFiles*** folder and it should set all of the libraries required for this engine to compile, then compile.
+2. Do this to install the libraries (it will NOT compile the game tho)
+
+```text
+haxelib install hmm
+haxelib run hmm install
+```
 
 ### IF YOU WANT TO MAKE THE ASSETS IN THE `embed` FOLDER UNEMBEDDED WHEN COMPILING, COMMENT OUT THE VARIABLES `FINAL_BUILD` AND `EXE_EMBEDDING` IN THE PROJECT.XML!
 

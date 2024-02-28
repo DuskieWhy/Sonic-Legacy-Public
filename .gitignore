@@ -9,6 +9,7 @@ projFiles/FLA/OLD
 ### VS Code
 export/*
 .vscode/*
+.haxelib/
 *.code-workspace
 # Local history which shouldn't be shared.
 .history
